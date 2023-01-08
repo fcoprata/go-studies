@@ -21,3 +21,6 @@ Para acessar os códigos, basta clonar o repositório e navegar pelas pastas de 
 - [Canal Aprenda Go](https://www.youtube.com/channel/UCrQw40y3YrGJf3K3bZV-JWw)
 - [Documentação oficial do Go](https://golang.org/doc/)
 - [Gopher Academy - Blog sobre Go](https://blog.gopheracademy.com/)
+
+## Agradecimentos
+Esse README foi desenvolvido pelo CHAT GPT
